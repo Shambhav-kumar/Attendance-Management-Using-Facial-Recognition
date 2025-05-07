@@ -1,0 +1,5 @@
+cmake(edit environment)
+dlib (visual studio build)
+face-recognition
+cvzone
+opencv-python==4.5.4.60
